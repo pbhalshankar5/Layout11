@@ -1,0 +1,28 @@
+.speaker{
+    float: left;
+    width: 163px;
+}
+.text-up{
+    text-transform: uppercase;
+}
+.float-left{
+    float: left;
+}
+.float-right{
+    float: right;
+}
+.overflow-fixed{
+    overflow: fixed;
+}
+.overflow-hidden{
+    overflow: hidden;
+}
+.font-regular{
+    font-weight: 400;
+}
+.font-bold{
+    font-weight: 600;
+}
+.font-semibold{
+    font-weight: 700;
+}
